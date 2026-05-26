@@ -1,7 +1,7 @@
 <h1 align="center">hola, soy andres vera👋</h1>
-<h3 align="center">autodidacta, experto en aprendizajes y desarrollo potencial sobre programacion,lenguajes,webs..</h3>
+<h3 align="center">autodidacta, experto en aprendizajes y desarrollo potencial sobre herramientas modelos de lenguajes,prgramacion,webs.</h3>
 
-- 🔭 programasperson **petscrii 2.0**
+- actualmente programasperson **petscrii 2.0**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
